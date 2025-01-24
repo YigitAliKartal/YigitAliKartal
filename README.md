@@ -7,7 +7,7 @@ Hello! I’m Yiğit Ali Kartal, a
 Software Developer student at Bandırma Onyedi Eylul University in Balıkesir. I’m excited to develop my skills in software and have a keen interest in web design, which drives me to learn more in this field.
 
 
-Skills: HTML / CSS
+Skills: C# / HTML / CSS
 
 - 🌱 I’m currently learning Html / Css /  C# / C  
 - 📫 How to reach me: yigitkartaloffice@gmail.com 
